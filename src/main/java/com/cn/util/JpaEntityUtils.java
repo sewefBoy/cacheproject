@@ -15,17 +15,7 @@ import com.cn.annotation.Id;
 import com.cn.annotation.Table;
 
 /**
- * <pre>
- * Title:获取jpa实体的基本信息
- * Description: 获取物理表名，获取字段对应物理字段名等
- * </pre>
  * 
- * @version 1.00.00
- * 
- *          <pre>
- * 修改记录
- *    修改后版本:     修改人：  修改日期:     修改内容:
- * </pre>
  */
 public class JpaEntityUtils {
 
